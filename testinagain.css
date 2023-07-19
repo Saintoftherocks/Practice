@@ -1,0 +1,16 @@
+body{
+	background-color: #2F2F2F;
+	}
+
+h2{
+	font-size: 45px;
+	color: darkgoldenrod;
+}
+.fancy{
+	font-size: 76px;
+	color: mediumseagreen;
+}
+.uc{text-transform: uppercase;}
+.fancy.uc{ font-size:120px; }
+
+span{color: whitesmoke;}
